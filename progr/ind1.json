@@ -1,0 +1,20 @@
+[
+    {
+        "departure_point": "Stav",
+        "number_train": "222",
+        "time_departure": "1830",
+        "destination": "Rostov"
+    },
+    {
+        "departure_point": "Stav",
+        "number_train": "222",
+        "time_departure": "1830",
+        "destination": "Rostov"
+    },
+    {
+        "departure_point": "MOSK",
+        "number_train": "255",
+        "time_departure": "5830",
+        "destination": "STAV"
+    }
+]
